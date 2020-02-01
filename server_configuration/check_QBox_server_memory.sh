@@ -14,7 +14,7 @@ requiredMemInKB=2000000        # 2 GB RAM, ideally it can be 2097152 KB
 # Check if the server has total RAM/memory >= 2 GB
 # TODO: CRIO_TASK_MODULE_SERVER_CONFIGURATION
     # Tasks:
-    # 1) Add the line to populate the variable "totalMemInKB" with the value of the Total Free memory in KB.
+    # 1) Add the line to populate the variable "totalMemInKB" with the value of the Total memory in KB.
     # 2) Linux commands can be placed within the `` when assigning the output to a variable. 
     #    E.g. totalMemInKB=`<bash command>`
     # 3) Start the expression to populate the variable with "cat $1" which is the command line filename input. Check the Usage above. 
