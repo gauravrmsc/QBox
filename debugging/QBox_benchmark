@@ -1,0 +1,13 @@
+# TODO: CRIO_TASK_MODULE_DEBUGGING
+    # Task: Populate the value for each line below
+
+Average time taken for Upload of 1GB file: x seconds
+Average time taken for Download of 1GB file: y seconds
+Average memory taken by process during Upload of 1GB file: a MB
+Average memory taken during Download of 1GB file: b MB
+Any increase in memory taken by QBox Server after each file transfer: c MB
+Average CPU taken for Upload of 1GB file: d%
+Average CPU taken for Download of 1GB file: e%
+File permissions for uploaded file: wrxwrxwrx
+File checksum same at source and destination for Upload: yes or no
+File checksum same at source and destination for Download: yes no
