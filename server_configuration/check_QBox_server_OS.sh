@@ -21,7 +21,7 @@ requiredUbuntuVersion=18       # Ubuntu verison 18.0
 
 if [ "$linuxType" = "$requiredOS1" ] || [ "$linuxType" = "$requiredOS2" ]
    then
-   echo "OS is $linuxType which is required for QBox"
+   echo "OS is $requiredOS2 which is required for QBox"
 else 
    echo "Error: OS is $linuxType which cannot be used for QBox"
    exit 1  # Failure
