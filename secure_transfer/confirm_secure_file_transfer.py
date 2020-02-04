@@ -6,5 +6,4 @@ import subprocess
 
 if __name__ == '__main__': 
     # TODO - confirm this argument
-    retVal = confirm_secure_file_transfer(sys.argv[1])
     print(retVal)
