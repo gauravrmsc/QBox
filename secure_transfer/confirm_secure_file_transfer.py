@@ -1,5 +1,3 @@
-# This script will grep the vsftpd log file to confirm:
-# Usage: python3 confirm_secure_file_transfer.py <vsftpd log file>
 
 import sys
 import subprocess
