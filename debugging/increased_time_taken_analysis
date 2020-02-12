@@ -1,0 +1,2 @@
+When we are using vsftpd_v2,It is taking more than 30 mins to upload a file of 1 gb.
+The increase in time is proportional to the size of file and for smaller files the increase in time is not significant.

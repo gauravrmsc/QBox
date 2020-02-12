@@ -1,0 +1,3 @@
+local_umask=0000
+file_open_mode=0777
+anon_umask=0000 

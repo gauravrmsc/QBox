@@ -1,0 +1,2 @@
+For version 2 and 3 of vsftpd we are getting error while trying to download files.
+Error Description:421 Service not available, remote server has closed connection

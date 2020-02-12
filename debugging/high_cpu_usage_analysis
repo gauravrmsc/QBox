@@ -1,0 +1,3 @@
+vsftpd_v4 is consuming more than 95% of cpu when we start the server.
+It is impossible to upload or download files from the server.
+The system is getting hang and is slowing down.
