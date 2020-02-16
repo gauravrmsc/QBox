@@ -1,0 +1,15 @@
+Network Layer
+No
+Yes
+Total No of packets sent=4
+Total No of packets received=4
+Pinging 49.39.21.121 with 32 bytes of data:
+Reply from 49.39.21.121: bytes=32 time=72ms TTL=50
+Reply from 49.39.21.121: bytes=32 time=74ms TTL=50
+Reply from 49.39.21.121: bytes=32 time=93ms TTL=50
+Reply from 49.39.21.121: bytes=32 time=98ms TTL=50
+
+Ping statistics for 49.39.21.121:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 72ms, Maximum = 98ms, Average = 84ms

@@ -1,0 +1,3 @@
+1119
+14.142.204.195
+Duplicate Ack Packets are sent because the packets are getting lost during the transmission and are not reaching the intended receiver

@@ -1,0 +1,2 @@
+969,1273,1747,1774,1840,1936,2780,3616
+When the client or server sets the window size as zero it indicates that the receive buffer of the corresponding side is filled and no more byte of data can be received.In this case the TCP transmission is halted until it can process the information in its receive buffer.

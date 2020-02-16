@@ -1,0 +1,1 @@
+the two IP addresses reported by ping and ifconfig are different because of Network address translation(NAT).The request sent to the public ip is forwarded to the private IP through NAT.
