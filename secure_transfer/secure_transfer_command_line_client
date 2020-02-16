@@ -1,0 +1,2 @@
+Yes
+Now I am unable to use the ftp from local machine as it does not use encryption technique and hence I have to use Filezila.On Filezila it is now showing a ssl prompt.Moreover Now the log file is showing what cipher it is using.
